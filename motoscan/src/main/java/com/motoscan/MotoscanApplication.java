@@ -1,4 +1,4 @@
-package com.motoscan.motoscan;
+package com.motoscan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
